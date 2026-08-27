@@ -54,8 +54,8 @@ $gate = @'
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
   :root{
-    --paper:#f6f5f1; --surface:#fffefb; --ink:#191b1a; --ink2:#5b5f5c; --ink3:#8b8f8a;
-    --rule:#dcd9d0; --accent:#7d2a2f;
+    --paper:#ffffff; --surface:#ffffff; --ink:#191b1a; --ink2:#5b5f5c; --ink3:#8b8f8a;
+    --rule:#dedcd6; --accent:#7d2a2f;
     --serif:"Spectral",Georgia,serif;
     --sans:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
     --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
@@ -94,7 +94,7 @@ $gate = @'
   }
   input:focus{border-color:var(--accent)}
   button{
-    width:100%; background:var(--accent); border:0; color:#fffefb; border-radius:2px;
+    width:100%; background:var(--accent); border:0; color:#ffffff; border-radius:2px;
     padding:13px; font-family:var(--mono); font-weight:500; font-size:12px;
     text-transform:uppercase; letter-spacing:.12em; cursor:pointer;
   }
