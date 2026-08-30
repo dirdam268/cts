@@ -1,4 +1,4 @@
-const CACHE_NAME = 'franquicias-v1';
+const CACHE_NAME = 'cts-v1';
 const PRECACHE = [
   './',
   './index.html',

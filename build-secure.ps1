@@ -40,13 +40,13 @@ $gate = @'
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Franquicias cláusula a cláusula</title>
+<title>CTS</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#7d2a2f">
 <meta name="robots" content="noindex, nofollow">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Franquicias">
+<meta name="apple-mobile-web-app-title" content="CTS">
 <link rel="icon" href="icons/favicon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -109,14 +109,14 @@ $gate = @'
 </head>
 <body>
 <div class="gate">
-  <div class="eyebrow">Documentación reservada</div>
-  <h1>Franquicias cláusula a cláusula</h1>
-  <div class="sub">Condiciones contractuales de las enseñas de supermercado. Acceso restringido.</div>
+  <div class="eyebrow">Acceso restringido</div>
+  <h1>CTS</h1>
+  <div class="sub">Introduce la contraseña para continuar.</div>
   <label for="pw">Contraseña</label>
   <input id="pw" type="password" autocomplete="current-password" autofocus>
   <button id="go">Entrar</button>
   <div class="err" id="err"></div>
-  <div class="foot">¿Olvidaste la contraseña?<br><a href="mailto:bordetass@gmail.com?subject=Acceso%20Franquicias">Escribe a bordetass@gmail.com</a></div>
+  <div class="foot">¿Olvidaste la contraseña?<br><a href="mailto:bordetass@gmail.com?subject=Acceso%20CTS">Escribe a bordetass@gmail.com</a></div>
 </div>
 <script>
 const PAYLOAD = __PAYLOAD__;

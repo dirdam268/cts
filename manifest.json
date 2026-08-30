@@ -1,7 +1,7 @@
 {
-  "name": "Franquicias cláusula a cláusula",
-  "short_name": "Franquicias",
-  "description": "Condiciones contractuales de las enseñas de supermercado, comparadas cláusula a cláusula con sus citas textuales",
+  "name": "CTS",
+  "short_name": "CTS",
+  "description": "Consulta interna",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
